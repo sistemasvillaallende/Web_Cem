@@ -15,7 +15,6 @@
             contain min-width="100" src="https://randomuser.me/api/portraits/women/81.jpg" width="100" />
         </v-avatar>
       </v-app-bar-nav-icon>
-
     </v-app-bar>
     <v-navigation-drawer v-model="drawer" absolute temporary  color="primary" dark shift >
       <v-list nav dense>
@@ -26,6 +25,8 @@
             </v-list-item-icon>
             <v-list-item-title>Cementerio Parque</v-list-item-title>
           </v-list-item>
+
+
 
           <v-list-item :href="'/'">
             <v-list-item-icon>

@@ -437,10 +437,13 @@ export default {
     dlgTitular: false,
     dlgDifunto: false,
     dlgCtaCte: false,
+    dlgCedulon: false,
     search: "",
     navCem: 1,
     currentPage: 0,
     pageCount: 0,
+
+
 
     headers: [
 
